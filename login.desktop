@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Login
+Exec=bash -c "$(dirname %k)/login.sh"
+Icon=/home/selim/projet/desktop-application.png
+Terminal=false
